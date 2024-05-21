@@ -13,6 +13,8 @@ const lightpurple = '#374469';
 const white = '#ffffff';
 export const background = '#272b4d';
 
+
+// add the tree data here
 const rawTree = {
   name: 'T',
   children: [
